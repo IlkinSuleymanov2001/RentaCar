@@ -83,3 +83,4 @@ C:\Users\ilkin\source\repos\ReCapProject\Api\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\ilkin\source\repos\ReCapProject\Api\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\ilkin\source\repos\ReCapProject\Api\bin\Debug\net8.0\Api.staticwebassets.runtime.json
 C:\Users\ilkin\source\repos\ReCapProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ilkin\source\repos\ReCapProject\Api\obj\Debug\net8.0\Api.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\ilkin\source\repos\ReCapProject\Business\bin\Debug\net8.0\DataAccess.pd
 C:\Users\ilkin\source\repos\ReCapProject\Business\bin\Debug\net8.0\Entities.pdb
 C:\Users\ilkin\source\repos\ReCapProject\Business\bin\Debug\net8.0\Core.pdb
 C:\Users\ilkin\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\ilkin\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.sourcelink.json

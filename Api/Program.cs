@@ -8,6 +8,7 @@ using Core.Utilities.Security.Encription;
 using Core.Utilities.IoC;
 using Core.IoC;
 using Core.Extensions;
+using Core.DependencyResolvers;
 
 var builder = WebApplication.CreateBuilder(args);
 

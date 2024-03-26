@@ -1,6 +1,7 @@
 ﻿using Autofac.Core;
 using Core.CrossCuttingConcerns.Caching;
 using Core.CrossCuttingConcerns.Caching.Microsost;
+using Core.IoC;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -9,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.IoC
+namespace Core.DependencyResolvers
 {
     public class CoreModule : ICoreModule
     {

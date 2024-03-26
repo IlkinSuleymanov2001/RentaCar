@@ -13,3 +13,4 @@ C:\Users\ilkin\source\repos\ReCapProject\Entities\bin\Debug\net8.0\Core.dll
 C:\Users\ilkin\source\repos\ReCapProject\Entities\bin\Debug\net8.0\Core.pdb
 C:\Users\ilkin\source\repos\ReCapProject\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
 C:\Users\ilkin\source\repos\ReCapProject\Entities\obj\Debug\net8.0\Entities.csproj.CopyComplete
+C:\Users\ilkin\source\repos\ReCapProject\Entities\obj\Debug\net8.0\Entities.sourcelink.json
