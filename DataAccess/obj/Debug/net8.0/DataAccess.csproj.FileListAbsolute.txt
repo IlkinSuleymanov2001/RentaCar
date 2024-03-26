@@ -1,0 +1,17 @@
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CopyComplete
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\ilkin\source\repos\ReCapProject\DataAccess\bin\Debug\net8.0\Core.pdb
